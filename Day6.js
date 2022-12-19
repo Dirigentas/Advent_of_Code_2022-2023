@@ -1,0 +1,34 @@
+let a = `srlsrsnnwhwwmddwfddgldlglppcnpptftzzchzhbhmmvwmvwvvjsjnjbbvbmvmnmqmfmjfjjmllzddrvrrnsncnznndwwqrqjjsfsjsjsvsvzvtvfvrvhhbwwltttbhhvphhtqqnffsppdqqrmmfrmfrrwvrvrsvrsrzssrqqrfqrfrttqntnpttvrrcncnfftjfjwwfwjwpwwltlwwwvnvcnvvdgvddqlddnllrggqvgvzzjddfgdfdgfffsbfsffjmffprrmgmtmqqgzzlwldlbbgjjnfjnnvlnnlbbnjnzngglmggwtgwttnvtnvndndmnmdmcddzbdbbspbpwbpplvpvnnmtmqqwnwgglhghdhbhqbhhqrqhqcqmmmrwwlvvfnvfnnpddbfbgfgqglgddrggbgbqqfwfjfdjfflzldlbbsbbtftccgqggzgdglglzljjzbzfbzffgftfvtfvvvjmjzjmjfjqqccpcjppzfpzzsvvzjvvfgfmgffzhhdphdpdwdwmdwwlqljjzffzvfzfwzfzcztctssdpssndssvbbtbstbtnngjjspplttpffjggbbqsqnqcncscpcmccbmbdbtbcbbgqgwgwqgwgwsszqznzvvntvvmlvlvqqvgvwgwlldbblclqcqggtqqlsqlsqlqcczzqgghmgmrgmrggljlbjbsbsmmnlmmdppnpfnnvhnnzggchgggbwwvtvpptgpplsljjshhnphhblbnbpbgppfllhsllbtlbtllrprqrvvfgvgpgcpcdddjjplpssjrjqjggncnzccqdqfqpffvddhlhdllgzzrtrztrztzptztwwbjbnjnsjsfsbfbdbccnhnmhnhrhwhfhbbtzbtztzrttrzrfrcrtctqqrlrsshphwphwpwwcmczzpqzqztqqvzzshhddrvdrrztrrqcqbcqbbhnnpfnpfnnmcnmnccnmmhccjjwzwcwbwcwnngtnngrngnsnzzcvvvtnvvtpvtpvtvvhffbsfsnsdsmmzbbrqbqpbpcpdppzmzbmmtdmttvgvrvlrvvhddjgdjdbbthtjhjdjhdjjmssdldjllwppvbvnbnlbbbszbblpbpfbpblbzzszvssbcbgcghgbbcpbbqrrdjdnnjcjddjcdjjcqqhggflftftfhttvlttgdtdrttwppwvvrzzbggrjjmssrjsjmssdtttdbdvddpllpgllthhvfvhvddrhhnznwznwzzpbblvvpmvpmpddjvdvcddvsshfhrrghgnhghmhhmhffrsfrflrfrjrddzgzsggchcfhhsbbsrszzgjggnrrgfffhthdthtnhtntllsjjjwqqsbsttbtzbttlfttczzbfbwfwvvhllltjjsqsdqqspqsszqzhhdrrhccgbcgggcbggnvgvmmwcmmpqmqccshsnnnwrwfrrwrllvhvlvmlvljjgrgvrvddfqfwqfqlfqqqppvmvrmrfrvrwrqrjqrrvmrvmrrvffmtffsfdfdrdwrwjrrcgcwwcdwdrdnrnzztqzzzgdzgdgldltdtvtnnhllrtltbtrbbttgssdhsssrmsscnssmtmqqtssmzzjqzqddfrdrtdrdpdzzppwggsrrfvfnvvmgvgmmdnnbwnntlnntncchcmcjmmvzzzngznnbgbnbnvbvzzfqqmtmrmcmqmvmbmbmcmscsjcsshswsjsvswshwwlnnsslmslmmzgmgsmssrwwmjwmwllvbvppplmmwgmgzgzdgzdgzztrtzzchcssbppdbbmvmqmmzhztzdtzdznnqhhmcmnnncbnngjnjmjnmmqqsnqsnslnlqlppvbvwwvtwtfwtfmzsbdjfvhzcflstpbtprpzmwcwwgzshfssnjdgflcsfglhbvvdctfrccfmwgfvjtvqfqpzzmqtlbvrjqwlwclfzhfzcmwsvprdhzcrghdscprrnqgdgmhhwbcfcfzrcgrwvbstpwbcvcnpmftwwthnsjznzslfdfqhtpsgmjsddmhlhtlzfsnhlcbgnqpqbzppnbcgtzvwdpmgftgsmrwjqwsdnjrrmwrmlcvlqgwldnvmsgnwccwzmdzwdhpmpqffgbnrrrvzqhtlnvqfhgwbbwsghwbrjzjcjmjmsspcmnfbbpmwffbdqffqfwsvtcrghbnldspdhjhjvtdhgmvrzqqlhvnwbdhfprwqdtzswfdzdwhzvfzsfqlzcflhbsvjhnjnthrdrgmjrrbftflpvrmrvvsgnjhrhjffvznmbjtshwgjmcqbfqjlptsrcgzvrhctwsdclrstmsbsbpqpjcvftmvmsmpwmmphlwmljhvllhrmfcncdprrwfmqrlllmsrvrwtbsqddbmblhvqqlcbbtjbslggrshflrddsphbvzhprcvbpmfldnmwtchddbdwhwpgbmjqptsbdzhrbqfwgfltchsggjlbqbhmzbjdncnvsqjvftpwrpdcjzsrvrlzwqfptwzssqpltjhdmtmmgvjzzqswwrsqrqfpdllgzsdlvhfdnzlrmlqdclwhqqbtwdqcrlfdjphjvcfzpwwgphmrldnwjpnmsjnqpwtwglcbthmcbnvpmjbdhmjglgccsmrmbvbqphdlbrrgnbljlhqvgqbctmthvmsfzflwvctwmdgmrlhnmwnsjtzndlwfttcvtslppjwsgbzhztlpzhmjlrbtzfnblwwlddzwqvzbjmffbflvmvnsgjlqwjqvrcrtwbhfzbzzmtwsndqmtnbjbsqjpnwhzqgwwltwgrqfbhjtpzrqvvhgjsbzqmfdsmzjdnplvblvqlrtzsbjgdptdhgvvrblbjppnnhhnvqtmjgwqzwtmjglrjlwsrfdjfmzlsszzzpbwvjbwpcwlplhcmhgpclztjcrmcntnqbnlrmcnhcnhnmjggtqbtvcfmcbdpqhdrvspbrgcwhgjhggwpvjbplhdsnnvgbzhmcrjqvqlwsdvrrnntmwdgdqdvzznjflctlfmfzsdfbpftsscnbtnqcsvtltvnsqpghzcwtjctvwqqnvnddlzbftwrdqzltpczrbmvsmlpfjzphtpnngzdfrjqrtbppbvztsddblspbltsnrtdftmwbblgdqvmscjqpwfvdzphwqgrbpdfcvtvmddgjjpswrqnwjfghtzwzbhtjnwjsrnwhjwcwnrtwrmbmqjhrbmbsslnvtsqnlbzlfdjvmnlhccpzmvpmrnttnshdjsswjlbtpwdwgmzqcthbczngwnfpzbmmrdffqsbrmsgzrtpsstfmdgbclwthflfbzvtptdfpzznvdwncqzvjwsmczwcnwgjpffcbhrtmtnbtjgcvtwdjtrftjwgvzmlfvgdjjjgsftzctplmjjmqfdzzwrtfmwqhwzglwbvsdvtgphsmngvppvlfdjdrzhhzsrvqgfwjbqdqlrwbgdmrglzrchvgwlhhwbvhfszntbrhshvqdznfvngdmhctjnlfhsmchqbqhdtmlntsnpvdzrvwjcjflfqgnprcpscfcmlgbwzmbnfdfnbwngrrbpnvbcdfgcpgtwmtbzptsdvjhwnzpsffglnqlczgsrdzshrfpqtqbmsrgzwwjvqhzjfzldcggvfhtcvzsgfspnlgtjfglwcnbprvssdfbtzqbblzjzmtftfcfprlwsvswjvtpzcpfphvmdnbczzjbjjrpwrncdszrtqjvznvgzcwdvpfvfcqlsdmhsswpnfsvtffnjhstcznwghlpmmqbnhqtddbjdrpvfhgdwjcnfgggmwnqhmsvgzsssbfcfrmbwpfqhrmtdvhbpwzggdvfjnlrgmvjjbqhjmbvszfzdcwrcjhfdczbhmcrwngmrgrldvbjjdgddhbbvqvwztfstfzqnqwvmmdzhzqtrmnqfrhmtdfhrgfqclpqdwthrbgsprccwcsvdbnclglgflhtqstvpwrmnsvflpplrgftlvjwttmdcqwjnbttjqqlwsntplmfrncqzplwgrjpzljtmnwsqfqnzgnrbtscbfzqwnqttnghcgl`;
+console.log(a);
+for (let i = 0; i < a.length - 1; ++i) {
+    if (a[i] !== a[i + 1] && a[i] !== a[i + 2] && a[i] !== a[i + 3] &&
+        a[i + 1] !== a[i + 2] && a[i + 1] !== a[i + 3] &&
+        a[i + 2] !== a[i + 3]) {
+        console.log(i + 3 + 1);
+        console.log(a[i], a[i + 1], a[i + 2], a[i + 3]);
+        break
+    }
+}
+// 1876
+
+for (let i = 0; i < a.length - 1; ++i) {
+    if (a[i] !== a[i + 1] && a[i] !== a[i + 2] && a[i] !== a[i + 3] && a[i] !== a[i + 4] && a[i] !== a[i + 5] && a[i] !== a[i + 6] && a[i] !== a[i + 7] && a[i] !== a[i + 8] && a[i] !== a[i + 9] && a[i] !== a[i + 10] && a[i] !== a[i + 11] && a[i] !== a[i + 12] && a[i] !== a[i + 13] &&
+        a[i + 1] !== a[i + 2] && a[i + 1] !== a[i + 3] && a[i + 1] !== a[i + 4] && a[i + 1] !== a[i + 5] && a[i + 1] !== a[i + 6] && a[i + 1] !== a[i + 7] && a[i + 1] !== a[i + 8] && a[i + 1] !== a[i + 9] && a[i + 1] !== a[i + 10] && a[i + 1] !== a[i + 11] && a[i + 1] !== a[i + 12] && a[i + 1] !== a[i + 13] &&
+        a[i + 2] !== a[i + 3] && a[i + 2] !== a[i + 4] && a[i + 2] !== a[i + 5] && a[i + 2] !== a[i + 6] && a[i + 2] !== a[i + 7] && a[i + 2] !== a[i + 8] && a[i + 2] !== a[i + 9] && a[i + 2] !== a[i + 10] && a[i + 2] !== a[i + 11] && a[i + 2] !== a[i + 12] && a[i + 2] !== a[i + 13] &&
+        a[i + 3] !== a[i + 4] && a[i + 3] !== a[i + 5] && a[i + 3] !== a[i + 6] && a[i + 3] !== a[i + 7] && a[i + 3] !== a[i + 8] && a[i + 3] !== a[i + 9] && a[i + 3] !== a[i + 10] && a[i + 3] !== a[i + 11] && a[i + 3] !== a[i + 12] && a[i + 3] !== a[i + 13] &&
+        a[i + 4] !== a[i + 5] && a[i + 4] !== a[i + 6] && a[i + 4] !== a[i + 7] && a[i + 4] !== a[i + 8] && a[i + 4] !== a[i + 9] && a[i + 4] !== a[i + 10] && a[i + 4] !== a[i + 11] && a[i + 4] !== a[i + 12] && a[i + 4] !== a[i + 13] &&
+        a[i + 5] !== a[i + 6] && a[i + 5] !== a[i + 7] && a[i + 5] !== a[i + 8] && a[i + 5] !== a[i + 9] && a[i + 5] !== a[i + 10] && a[i + 5] !== a[i + 11] && a[i + 5] !== a[i + 12] && a[i + 5] !== a[i + 13] &&
+        a[i + 6] !== a[i + 7] && a[i + 6] !== a[i + 8] && a[i + 6] !== a[i + 9] && a[i + 6] !== a[i + 10] && a[i + 6] !== a[i + 11] && a[i + 6] !== a[i + 12] && a[i + 6] !== a[i + 13] &&
+        a[i + 7] !== a[i + 8] && a[i + 7] !== a[i + 9] && a[i + 7] !== a[i + 10] && a[i + 7] !== a[i + 11] && a[i + 7] !== a[i + 12] && a[i + 7] !== a[i + 13] &&
+        a[i + 8] !== a[i + 9] && a[i + 8] !== a[i + 10] && a[i + 8] !== a[i + 11] && a[i + 8] !== a[i + 12] && a[i + 8] !== a[i + 13] &&
+        a[i + 9] !== a[i + 10] && a[i + 9] !== a[i + 11] && a[i + 9] !== a[i + 12] && a[i + 9] !== a[i + 13] &&
+        a[i + 10] !== a[i + 11] && a[i + 10] !== a[i + 12] && a[i + 10] !== a[i + 13] &&
+        a[i + 11] !== a[i + 12] && a[i + 11] !== a[i + 13] &&
+        a[i + 12] !== a[i + 13]
+    ) {
+        console.log(i + 13 + 1);
+        break
+    }
+}
+
+// 2202

@@ -1,0 +1,16 @@
+{
+    "name": "adventofcode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Day1.js",
+    "scripts": {
+        "day2": "nodemon ./day2",
+        "day3": "nodemon ./day3",
+        "day8": "nodemon ./day8",
+        "day18": "nodemon ./day18",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "BIT"
+}
