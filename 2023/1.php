@@ -1008,7 +1008,6 @@ $valid_digits = ["-*.....xhr......", "one", "two", "three", "four", "five", "six
 
 foreach ($rows_array as $key => &$row) {
     foreach ($valid_digits as $key1 => $digit) {
-        // echo $digit . " ";
 
         // gets all occurrences of $digit
         $lastPos = 0;
@@ -1023,9 +1022,6 @@ foreach ($rows_array as $key => &$row) {
             $lastPos = $lastPos + strlen($digit);
 
         }
-        // echo "Eilė " . $key;
-        // print_r($allPositions);
-        // echo ".";
     }
     echo "\n";
 }
@@ -1050,7 +1046,6 @@ foreach ($rows_array as $key => $row) {
     foreach ($one_row_array as $key1 => $symbol) {
         if (ctype_digit($symbol)) {
                 $row_answer .= $symbol;
-                // echo $key . "-" . $row . "-" . $row_answer;
                 break;
         }
     }
@@ -1066,7 +1061,6 @@ foreach ($rows_array as $key => $row) {
         if (ctype_digit($symbol)) {
             $row_answer .= $symbol;
             echo $row_answer;
-            // echo ".";
             break;
         }
     }
@@ -1077,5 +1071,4 @@ foreach ($rows_array as $key => $row) {
     echo "________";
     echo "\r\n";
     echo $final_answer;
-//54031 per mazas. 54087, 54591, 54590 netiko, 
 ?>
