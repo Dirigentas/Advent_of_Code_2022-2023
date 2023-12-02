@@ -14,30 +14,39 @@ $final_answer = 0;
 
 foreach ($rows_array as $key => $row) {
     
-    $row_answer = 0;
+    $row_answer = '';
 
     $one_row_array = str_split($row);
-    
+
+    $reversed_row = '';
+
+    // first number
     foreach ($one_row_array as $key => $symbol) {
         if (ctype_digit($symbol)) {
-                $row_answer = $symbol;
-                echo $row_answer;
-                $final_answer += $row_answer;
+                $row_answer .= $symbol;
                 break;
-            }
         }
     }
-        
+
+    // last number
+    foreach ($one_row_array as $key => $symbol) {
+        $reversed_row = $symbol . $reversed_row;
+    }
+
+    $reversed_row = str_split($reversed_row);
+
+    foreach ($reversed_row as $key => $symbol) {
+        if (ctype_digit($symbol)) {
+            $row_answer .= $symbol;
+            echo $row_answer;
+            echo "--------";
+            break;
+        }
+    }
+    $final_answer += $row_answer;
+    $reversed_row = '';
+}
+    // echo "________";
     // echo $final_answer;
-        
-    // print_r($rows_array);
-    // echo gettype($row);
-
-
-    // $a = "14gxqgqsqqbxfpxnbccjc33eight";
-
-    // foreach ($a as $key => $value) {
-    //     echo $value;
-    // }
 
 ?>
